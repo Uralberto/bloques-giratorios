@@ -1,2 +1,2 @@
 # bloques-giratorios
-Ejercicios con las funciones setTimeout y setInterval
+Ejercicio con las funcionalidades setTimeout y setInterval
