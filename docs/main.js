@@ -14,7 +14,7 @@ let preload = () => {
             animate(block, i)
         }, interval)
 
-        interval += 2000
+        interval += 500
     })
 
 
@@ -40,7 +40,7 @@ let preload = () => {
                     position = 2
                     break
             }
-        },6000)
+        },1500)
         
     }
 
